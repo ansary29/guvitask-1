@@ -1,0 +1,22 @@
+ List 5 difference between Browser JS(console) v Nodejs
+       
+   i) JavaScript is basically used on the client-side while Nodejs mostly used on the server-side.
+   ii) Javascript is used for writing scripts on the website whereas NodeJS is a Javascript runtime environment.
+  iii) Javascript is capable enough to add HTML and play with the DOM while Nodejs does not have capability to add HTML tags.
+   iv) Javascript can run in any browser engine as like safari (JS core) and Firefox (Spidermonkey) where Nodejs can only run in google chrome(V8 engine).
+    v) Javascript can only be run in the browsers whereas NodeJS code can be run outside the browser.
+ 
+ Execute the below code and write your description in txt file
+      a. typeof(1)        : number
+      b. typeof(1.1)      : number
+      c.typeof('1.1')     : string
+      d.typeof(true)      : boolean
+      e.typeof(null)      : object
+      f.typeof(undefined) : undefined
+      g.typeof([])        : object
+      h.typeof({})        : object
+      i.typeof(NaN)       : number
+
+what is prototype
+
+Prototypes are the mechanism by which JavaScript objects inherit features from one another. In this article, we explain how prototype chains work and look at how the prototype property can be used to add methods to existing constructors.    
